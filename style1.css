@@ -1,0 +1,65 @@
+
+span{
+        color: rgb(64, 22, 255);
+        
+    
+    }
+header h1{
+        text-align: center;
+       font-weight: 50000;
+    
+    }
+    body{
+        background-color: rgb(172, 166, 166);
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        max-width: 1200px;
+        margin: o auto;
+        padding: 100px;
+        
+        }
+header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    
+ 
+        
+ 
+main{
+            display: flex;
+            margin-top: 100px;
+            background-color: rgb(127, 127, 165);
+        }
+        
+
+        
+        
+        
+        img{
+            width: 400px;
+        
+        }
+        form{
+            display: flex;
+            flex-direction: column;
+            width: 70%;
+        
+        }
+        
+        input{
+            margin-top: 10px;
+            height: 20px;
+            padding: 15px;
+            border-radius: 20px;
+            border: none;
+            font-size: 15px;}
+.rodape img {
+    width: 200px;
+    
+}
+.sl{
+  color: black;
+}
+        

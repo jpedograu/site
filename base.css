@@ -1,0 +1,174 @@
+body{
+background-color: rgb(15, 15, 15);
+color: white;
+max-width: 1200px;
+margin: o auto;
+padding: 15px;
+text-decoration: none;
+list-style: none;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+   
+}
+
+li{
+    display: inline-flex;
+    margin: 20px;
+    text-decoration: none;
+    list-style: none;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+
+}
+a:hover{
+    color: rgb(107, 255, 8);
+    transition: 0.3s all;
+   
+
+}
+#inscreva-se-btn{
+    border: 2px solid rgb(120, 192, 52);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h1{
+    font-weight: 200;
+    text-decoration: none;
+   list-style: none;
+}
+
+
+
+ aside h1 span{
+    color: rgb(102, 150, 212);
+
+}
+p{
+    line-height: 20px;
+    max-width: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+img{
+    width: 1240px;
+   
+
+}
+
+
+aside h2 span{
+    color: rgb(245, 245, 245);
+}
+
+h1 {
+    color: white;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    list-style: none;
+    display: flex;
+    box-shadow: 0 0 10px black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo {
+    color: rgb(41, 241, 23);
+    text-transform: lowercase;
+    letter-spacing: -3px;
+    box-shadow: 15px;
+   
+    
+}
+.logo span:first-child {
+    color: rgb(241, 212, 42)
+}
+
+
+
+
+.img2{
+     
+    width: 70px;
+}
+.N{
+    display: flex;
+    padding:20;
+    text-align: center;
+    align-items: center;
+}
+.img2:hover{
+    scale:(1.5);
+}
+.roda{
+    background-color: rgb(17, 85, 17);
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 20px 40px 320px;
+}
+.img4{
+    
+    width: 160px;
+    text-align: justify;
+    
+}
+.u{
+    color: green;
+}
+
+.img5{
+    width: 60px;
+    height: 40px;
+}
+.vi {
+    width: 160px;
+    
+}
+.cachorro{
+    display: flex;
+}
+.creatina{
+    width: 160px;
+    
+}
+.j{
+    color: green;
+}
+.baixo{
+    width: 60px;
+    
+}
+.COM{
+    width: 60px;
+    height: 40px; 
+   
+}
+.frete{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul li .img2:hover{
+    scale: 1.2;
+}
+ul li .img4:hover{
+    scale: 1.2;
+}
+.vi:hover{
+    scale: 1.2;
+}
+.TY{
+    color: rgb(13, 14, 13);
+}
+ 
